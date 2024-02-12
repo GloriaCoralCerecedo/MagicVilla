@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OEGx/82Z5e4mkC5UHQQW5IQ+GoIs6eExWZ4shQstjTB1axFOVGy4BS9KF5Va3czOrUQccP9UIg//Asa7vBwZOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glori\\OneDrive\\Escritorio\\Proyectos\\Udemy\\NET\\MagicVilla\\MagicVilla_Api\\MagicVilla_Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.15\\microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\glori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

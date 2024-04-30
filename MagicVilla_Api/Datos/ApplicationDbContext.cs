@@ -15,6 +15,8 @@ namespace MagicVilla_Api.Datos
         // Se creara una tabla en la bd
         public DbSet<Villa> Villas { get; set; }
 
+        public DbSet<NumeroVilla> NumeroVillas { get; set; }
+
         // Datos alamacenados antes de empezar a agregar nuevos registros
         //Override de un metodo que existe enla clase dbcontext
         protected override void OnModelCreating(ModelBuilder modelBuilder)
